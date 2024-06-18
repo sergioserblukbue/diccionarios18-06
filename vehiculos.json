@@ -1,0 +1,16 @@
+{
+    "lpi458": {
+        "interior": "s",
+        "chasis": "n",
+        "motor": "n",
+        "estado": "terminado",
+        "dniPropietario": "2424"
+    },
+    "kou365": {
+        "interior": "s",
+        "chasis": "s",
+        "motor": "s",
+        "estado": "pendiente",
+        "dniPropietario": "2224"
+    }
+}
